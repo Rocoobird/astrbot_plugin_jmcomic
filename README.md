@@ -1,8 +1,6 @@
-# helloworld
+# astrbot_plugin_jmcomic
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
+AstrBot 下载 JMCOMIC 本子插件
 
 # 支持
 
